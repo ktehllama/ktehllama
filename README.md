@@ -1,9 +1,11 @@
-## ktehllama
+## Hey there, I'm ktehllama
 
 <details>
-  <summary>Top 10</summary>
+  <summary>- About me</summary>
+</details>
 
-Rotating
+<details>
+  <summary>- How to reach me</summary>
 </details>
     
 
