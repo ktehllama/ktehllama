@@ -1,5 +1,5 @@
 <details>
-  <summary>Top 10<summary>
+  <summary>Top 10</summary>
 
 Rotating
 </details>
