@@ -8,6 +8,6 @@
 - I would like to learn C or Javascript one day
 
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktehllama&layout=compact&exclude_lang=ruby&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ktehllama&layout=compact&theme=tokyonight" />
 </p>
 <!-- ![cod](https://c.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif) -->
