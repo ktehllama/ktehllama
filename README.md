@@ -11,4 +11,4 @@
   <br />
   <br />
 </p>
-![Footer](https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg)
+![Footer](https://cdn.discordapp.com/attachments/813583910435946497/975844590542262362/vscode.png)
