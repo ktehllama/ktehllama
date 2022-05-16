@@ -1,5 +1,5 @@
 
-![Header](https://cdn.discordapp.com/attachments/813583910435946497/975840054515757136/banner_git_top.png)
+![Header](https://cdn.discordapp.com/attachments/813583910435946497/975840460742471680/banner_top_2.png)
 
 <h1 align="center">ktehllama</h1>
 <p align="center">true.</p>
