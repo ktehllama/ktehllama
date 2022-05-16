@@ -11,4 +11,4 @@
   <br />
   <br />
 </p>
-![Footer](https://camo.githubusercontent.com/6db18e609151830015183afde5ebe94fbff50627fb5a3c670627f9d8026919b4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32642f56697375616c5f53747564696f5f436f64655f312e31385f69636f6e2e737667)
+![Footer](https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg)
