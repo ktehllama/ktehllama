@@ -12,5 +12,3 @@
   <br />
   <br />
 </p>
-
-![cod](https://cdn.discordapp.com/attachments/813583910435946497/975846066819833916/vscode-icons-horizontal-label-text-alphabet-word-transparent-png-2658501.png)
