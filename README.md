@@ -11,4 +11,4 @@
   <br />
   <br />
 </p>
-![Footer](https://cdn.discordapp.com/attachments/813583910435946497/975844590542262362/vscode.png)
+![cod](https://cdn.discordapp.com/attachments/813583910435946497/975844590542262362/vscode.png)
