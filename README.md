@@ -13,5 +13,3 @@
   <br />
   <br />
 </p>
-
-![Footer](./footer.png)
