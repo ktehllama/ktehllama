@@ -1,5 +1,5 @@
 
-![Header](./header.png)
+![Header](https://cdn.discordapp.com/attachments/813583910435946497/975835444392628244/banner_git.png)
 
 <h1 align="center">ktehllama</h1>
 <p align="center">true.</p>
